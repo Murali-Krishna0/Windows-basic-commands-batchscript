@@ -1,6 +1,7 @@
 
 # Ex08-Windows-basic-commands-batchscript
 
+### Date:
 ### Name:Loshini.G
 ### Register Number:212223220051
 ### Department:IT
@@ -21,7 +22,7 @@ Create a directory named "MyLab" on the desktop.
 ## COMMAND AND OUTPUT
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
-```
+```c
 %userprofile%\Desktop\MyLab
 ```
 ![image](https://github.com/Nandhakumar1313/Windows-basic-commands-batchscript/assets/120230694/c206b1a2-a6cd-4a05-8be1-0e757209c1bd)
@@ -30,7 +31,7 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 ## COMMAND AND OUTPUT
 
 List the contents of the "MyLab" directory.
-```
+```c
 %userprofile%\Desktop\MyLab
 ```
 ![image](https://github.com/Nandhakumar1313/Windows-basic-commands-batchscript/assets/120230694/4b447d26-41f7-404f-9b36-abeade389383)
@@ -39,7 +40,7 @@ List the contents of the "MyLab" directory.
 ## COMMAND AND OUTPUT
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
-```
+```c
 %userprofile%\Desktop\MyLab
 ```
 ![image](https://github.com/Nandhakumar1313/Windows-basic-commands-batchscript/assets/120230694/d7c09055-e3c0-40a6-acc8-9c7a0d074a87)
@@ -48,7 +49,7 @@ Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
-```
+```c
 mkdir %userprofile%\Desktop\Backup mkdir %userprofile%\Desktop\Backup
 ```
 ![image](https://github.com/Nandhakumar1313/Windows-basic-commands-batchscript/assets/120230694/7ec9d35f-de3b-471f-a9ca-6f2a6d423eb2)
@@ -56,7 +57,7 @@ mkdir %userprofile%\Desktop\Backup mkdir %userprofile%\Desktop\Backup
 
 
 ## COMMAND AND OUTPUT
-```
+```c
 
 mv Myfile.txt %userprofile%\Documents
 ```
@@ -71,7 +72,7 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 
 
 
-```
+```c
 @echo off mkdir %userprofile%\Desktop\DocBackup copy %userprofile%\Documents*.docx %userprofile%\Desktop\DocBackup echo Backup completed successfully!
 ```
 ## OUTPUT
