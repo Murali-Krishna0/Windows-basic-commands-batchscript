@@ -5,12 +5,12 @@
 ### Register Number:212223220051
 ### Department:IT
 
-# AIM:
+## AIM:
 To execute Windows basic commands and batch scripting
 @@ -24,42 +23,53 @@ Execute the necessary commands/batch file for the desired output.
 
 
-# WINDOWS COMMANDS:
+## WINDOWS COMMANDS:
 #### NAME:LOSHINI.G
 #### REG.NO:212223220051
 
@@ -82,5 +82,5 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 
 
 
-# RESULT:
+## RESULT:
 The commands/batch files are executed successfully.
