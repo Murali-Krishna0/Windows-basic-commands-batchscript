@@ -2,8 +2,8 @@
 # Ex08-Windows-basic-commands-batchscript
 
 ### Date:
-### Name:Loshini.G
-### Register Number:212223220051
+### Name:MURALI KRISHNA.S
+### Register Number:212223230129
 ### Department:IT
 
 ## AIM:
