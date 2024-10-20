@@ -1,10 +1,10 @@
 
 # Ex08-Windows-basic-commands-batchscript
 
-### Date:
-### Name:Loshini.G
-### Register Number:212223220051
-### Department:IT
+
+### Name:MURALI KRISHNA.S
+### Register Number:2122232230129
+### Department:AI&DS
 
 ## AIM:
 To execute Windows basic commands and batch scripting
